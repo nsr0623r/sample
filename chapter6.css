@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box1 {
+  height: 200px;
+  background-img: url();
+  background-position: center;
+  background-size: cover;
+}
